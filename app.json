@@ -1,0 +1,17 @@
+{
+    "name": "GoinHeroku",
+    "description": "Deploy Go on Heroku.",
+    "keywords": ["Go"],
+    "env": {
+        "PASSWORD": {
+            "description": "密码",
+            "value": "1b99ad3d-11b3-461e-8d02-0b1a30ecb027"
+        },
+        "TYPE": {
+            "description": "加密类型",
+            "value": "aes-256-gcm"
+        }
+    },
+    "repository": "https://github.com/JTangT/heroku-go",
+    "stack": "container"
+}
