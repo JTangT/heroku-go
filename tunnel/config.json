@@ -6,6 +6,7 @@
             "\/ws": "127.0.0.1:8081"
         },
         "Protocol": "cloudflare",
+		"MinSpeed": 0,
         "Port": "PORT"
     }
 }
