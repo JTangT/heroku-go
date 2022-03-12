@@ -1,12 +1,14 @@
 {
-    "2843": {
+    "26604": {
+        "Mode": 0,
+        "ProxyProtocol": 0,
         "Cert": "",
         "Key": "",
         "Paths": {
             "\/ws": "127.0.0.1:8081"
         },
         "Protocol": "cloudflare",
-		"MinSpeed": 0,
-        "Port": "PORT"
+        "Listen": PORT,
+        "MinSpeed": 0
     }
 }
