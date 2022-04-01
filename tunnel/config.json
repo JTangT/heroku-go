@@ -1,0 +1,15 @@
+{
+    "29402": {
+        "Mode": 0,
+        "ProxyProtocol": 0,
+        "Cert": "",
+        "Key": "",
+        "Paths": {
+            "\/ws": "IP:Port",
+            "\/ws2": "IP:Port"
+        },
+        "Protocol": "cloudflare",
+        "Listen": 443,
+        "MinSpeed": 0
+    }
+}
