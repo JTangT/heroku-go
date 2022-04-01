@@ -5,11 +5,10 @@
         "Cert": "",
         "Key": "",
         "Paths": {
-            "\/ws": "IP:Port",
-            "\/ws2": "IP:Port"
+            "\/ws": "127.0.0.1:8081"
         },
         "Protocol": "cloudflare",
-        "Listen": 443,
+        "Listen": PORT,
         "MinSpeed": 0
     }
 }
